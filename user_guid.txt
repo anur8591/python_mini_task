@@ -41,3 +41,11 @@ case C:
     scissor - scissor = tie 
     scissor - rock = rock win
     scissor - paper = scissor win
+
+
+***************_3.Tic_Tac_Toe_Game_***************
+Summary:
+This is a GUI-based Tic Tac Toe game. The game is played on a $3 \times 3$ grid by two players: 
+Player 1 and Player 2, using the symbols X and O. 
+The first player to align three of their symbols horizontally, 
+vertically, or diagonally wins the game!
