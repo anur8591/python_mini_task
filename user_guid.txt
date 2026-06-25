@@ -19,3 +19,25 @@ inputs =
 output =
     * Total amount to be paid overall
     * Total amount each person needs to pay
+
+
+***************_2.Rock_Paper_Scissor_Game_***************
+Workflow of Project
+1.input form user(Rock,Paper,Scissor)
+2.Computer choice(Computer will choose randomly not conditionally)
+3.Result print
+
+cases A:
+    Rock - Rock = tie
+    Rock - paper = paper win
+    Rock - scissor = Rock win 
+
+case B:
+    paper - paper = tie
+    paper - rock = paper win
+    paper - scissor = scissor win
+
+case C:
+    scissor - scissor = tie 
+    scissor - rock = rock win
+    scissor - paper = scissor win
