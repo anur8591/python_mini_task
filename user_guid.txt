@@ -49,3 +49,6 @@ This is a GUI-based Tic Tac Toe game. The game is played on a $3 \times 3$ grid 
 Player 1 and Player 2, using the symbols X and O. 
 The first player to align three of their symbols horizontally, 
 vertically, or diagonally wins the game!
+
+***************_4.Note_Pad_***************
+this is notepad
